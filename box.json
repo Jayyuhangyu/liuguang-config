@@ -1,0 +1,45 @@
+{
+  "sites": [
+    {
+      "key": "py_douban",
+      "name": "豆瓣[py]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/Jayyuhangyu/liuguang-config@main/py/douban.py",
+      "changeable": 0,
+      "searchable": 0,
+      "filterable": 0
+    },
+    {
+      "key": "ffzy",
+      "name": "非凡资源",
+      "type": 1,
+      "api": "https://api.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "bfzy",
+      "name": "暴风资源",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "zy360",
+      "name": "360资源",
+      "type": 1,
+      "api": "https://www.360zy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "uku",
+      "name": "优质资源",
+      "type": 1,
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    }
+  ]
+}
